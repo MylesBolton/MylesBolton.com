@@ -70,31 +70,34 @@ body {
 
 /* Back styling */
 .back {
-  background: #15CCC0;
+  background: #141414;
   padding: 30px;
 }
 
 .name {
-  color: #3B3B3B;
+  color: #929292;
   margin-bottom: 0;
 }
 
 p {
   margin: 0.8em 0;
 }
-
+a {
+   color: #929292;
+   margin: 0.8em 0;
+}
 .info {
   position: absolute;
   bottom: 30px;
   left: 30px;
-  color: #3b3b3b;
+  color: #929292;
 }
 
 .property {
   color: #fff;
 }
 
-/* Make semi-responsive */
+
 @media (max-width: 700px) {
   .card {
     transform: scale(0.5);
