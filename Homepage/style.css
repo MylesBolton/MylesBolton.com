@@ -1,0 +1,36 @@
+
+/* Button Styleee
+*
+*/
+button, button a, .button{
+  position:relative;
+  /* style|variant|weight|size/line-height|family */
+  font: 500 14px Arial;
+  letter-spacing: 0.5px;
+  color:#fff !important;
+  border: 0;
+  border-radius: 5px;
+  cursor:pointer;
+  text-decoration:none;
+}
+
+button, .button{
+  min-width: 100px;
+  margin: 10px 5px;
+  padding:8px 10px;
+  background-color: #0092ba;/* for non linear-gradient browsers */
+  background: linear-gradient(to bottom, #24A1C3 5%, #0092BB 100%) repeat scroll 0 0 #24A1C3;
+}
+
+.button{display:inline-block;min-width:80px;text-align:center;white-space:nowrap;}
+
+button:hover,a.button:hover{
+  background:linear-gradient(to bottom, #0092BB 5%, #24A1C3 100%) repeat scroll 0 0 #0092BB;
+}
+button:active{top:1px;}
+
+
+body{
+  background-color:#222;
+}
+#buttonC{margin:20px auto;width:500px;}
