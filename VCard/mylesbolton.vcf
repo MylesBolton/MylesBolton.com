@@ -1,0 +1,29 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Bolton;Myles;;;
+FN:Myles Bolton
+ORG:Phion Security Limited
+ADR;TYPE=WORK:
+TITLE:Director 
+TEL;TYPE=CELL:+447525863629
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:Email@MylesBolton.com
+URL;TYPE=Digital Business Card:https://MylesBolton.com/VCard/MylesBolton
+URL:https:MylesBolton.com
+URL;TYPE=Signal:https://signal.me/#p/+447525863629
+URL;TYPE=Messenger:https://m.me/Myles1337
+URL;TYPE=Matrix:https://matrix.to/#/@mylesbolton:matrix.org
+URL;TYPE=Website:https:MylesBolton.com
+URL;TYPE=Calendar:https://calendar.proton.me/api/calendar/v1/url/4gqgFHRMOXabZwVrt4kQxwFKSyrpAB5YTc-_dWVJBBYu232bUacJ1CCW1MNZRqtdiuQluaSKheMpjlialaKXfQ==/calendar.ics?CacheKey=SeIEqEGcpHlXZfNYE9hcrg%3D%3D
+URL;TYPE=Facebook:https://facebook.com/Myles1337
+URL;TYPE=LinkedIn:https://linkedin.com/MylesBolton
+URL;TYPE=GitHub:https://github.com/MylesBolton
+URL;TYPE=YouTube:https://youtube.com/MylesBolton
+URL;TYPE=Spotify:https://open.spotify.com/user/ocfabasmrhw3lgwcqhc16qx2l
+URL;TYPE=Mastodon:https://mastodon.social/@MylesBolton
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100266774
+END:VCARD
