@@ -2,28 +2,27 @@ BEGIN:VCARD
 VERSION:3.0
 N:Bolton;Myles;;;
 FN:Myles Bolton
-ORG:Phion Security Limited
+ORG:PhionSecurity
 ADR;TYPE=WORK:
-TITLE:Director 
-TEL;TYPE=CELL:+447525863629
+TITLE:
+TEL;TYPE=CELL:
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
-EMAIL;TYPE=WORK:Email@MylesBolton.com
-URL;TYPE=Digital Business Card:https://MylesBolton.com/VCard/MylesBolton
-URL:https:MylesBolton.com
+EMAIL;TYPE=WORK:email@mylesbolton.com
+URL;TYPE=Digital Business Card:https://mylesbolton.com/VCard/
+URL:https://MylesBolton.com
 URL;TYPE=Signal:https://signal.me/#p/+447525863629
-URL;TYPE=Messenger:https://m.me/Myles1337
 URL;TYPE=Matrix:https://matrix.to/#/@mylesbolton:matrix.org
-URL;TYPE=Website:https:MylesBolton.com
+URL;TYPE=Messenger:https://m.me/Myles1337
+URL;TYPE=Website:https://MylesBolton.com
 URL;TYPE=Calendar:https://calendar.proton.me/api/calendar/v1/url/4gqgFHRMOXabZwVrt4kQxwFKSyrpAB5YTc-_dWVJBBYu232bUacJ1CCW1MNZRqtdiuQluaSKheMpjlialaKXfQ==/calendar.ics?CacheKey=SeIEqEGcpHlXZfNYE9hcrg%3D%3D
-URL;TYPE=Facebook:https://facebook.com/Myles1337
-URL;TYPE=LinkedIn:https://linkedin.com/MylesBolton
 URL;TYPE=GitHub:https://github.com/MylesBolton
 URL;TYPE=YouTube:https://youtube.com/MylesBolton
 URL;TYPE=Spotify:https://open.spotify.com/user/ocfabasmrhw3lgwcqhc16qx2l
+URL;TYPE=Facebook:https://facebook.com/Myles1337
 URL;TYPE=Mastodon:https://mastodon.social/@MylesBolton
 KEY;TYPE=PGP;ENCODING=b:LS0tLS1CRUdJTiBQR1AgUFVCTElDIEtFWSBCTE9DSy0tLS0tCgptRE1FWVV6SmNSWUpLd1lCQkFIYVJ3OEJBUWRBRFE2Y0lPZmw5VkdkUFE3cTJpSUVEZjVJN2hlZ0Vpb0hRZ1QrCkg1ZGZmT2UwTDAxNWJHVnpJRUp2YkhSdmJpQW9XWFZpYVNCTFpYa3BJRHhsYldGcGJFQnRlV3hsYzJKdmJIUnYKYmk1amIyMCtpSkFFRXhZSUFEZ1dJUVNWY1VkaUxwajRHYkI5T1lFc2t6djBiUzlXeFFVQ1lVekpjUUliQXdVTApDUWdIQWdZVkNna0lDd0lFRmdJREFRSWVBUUlYZ0FBS0NSQXNrenYwYlM5V3hWd25BUURoUTY4cGc5Zi9xOWRXClYvM24yczNYRXJGbGJFOFovbnc1WW9EOVZIOHZWQUVBbEh6RUVMVkgyNFpSYXN3cWR3TjlNbUxNbUFYRk9ieHUKVDlma0crR2VZUW00TXdSaFRNbHhGZ2tyQmdFRUFkcEhEd0VCQjBEVDFwNDUwRFpIZVk2UDc0NkdKV2d2UlBSZwprUHo0ZEhVRGJldG8rWjBEb0loNEJCZ1dDQUFnRmlFRWxYRkhZaTZZK0Jtd2ZUbUJMSk03OUcwdlZzVUZBbUZNCnlYRUNHeUFBQ2drUUxKTTc5RzB2VnNYL21BRC9hNkVRcmM2Wk9XSTR0bGhYK1phMVBwZ2x5Nk41WEc0Z3k1ekkKR1lWQ1YyRUEvM3FlNGFOMEpSMmE3WHFXRHdsWkN1VTg4ZWhncGNOdllxWGcrRHJlcmQ4S3VEZ0VZVXpKY1JJSwpLd1lCQkFHWFZRRUZBUUVIUUxWNUdlMlNSaDVOTDlBRFBsUTBZdkd2Rlk1cGJGRktzcFc2aHBIRjhEZzdBd0VJCkI0aDRCQmdXQ0FBZ0ZpRUVsWEZIWWk2WStCbXdmVG1CTEpNNzlHMHZWc1VGQW1GTXlYRUNHd3dBQ2drUUxKTTcKOUcwdlZzWDZsQUVBcmxJaC9TdXVSN0kwcDloNVM0eGlGeE9qQlprRWNsa1FSUkV2UnVmNGE2RUJBSUVZKzdsNwpuN2NZZWI1MFRXWk1hSTVDRzJlVWpaa29aNVFHbGJsUGU0QUMKPTNaV3oKLS0tLS1FTkQgUEdQIFBVQkxJQyBLRVkgQkxPQ0stLS0tLQ==
 NOTE:
-UID:EnBizCard-100785377
+UID:EnBizCard-100363564
 END:VCARD
